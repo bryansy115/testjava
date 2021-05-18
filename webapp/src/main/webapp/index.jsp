@@ -3,12 +3,6 @@
 <h2> testing 123 123 123 123</h2>
 <h2> ang gwapo ko</h2>
 <h2> ang gwapo ko</h2>
-<h2> ang gwapo ko</h2>
-<h2> gwapo gsfdfsdfdwapo gwapo</h2>
-<h2> gwapo gwapo gwapo</h2>
-<h2> gwapo gwdddddddapo gwapo</h2>
-<h2> ang gwapo ko</h2>
-<h2> ang gwapoddddko</h2>
 <h2> ang gwaposxx ko</h2>
 <h2> ang gwapo ko</h2>
 <h2> ang gwapo ko</h2>
