@@ -5,16 +5,11 @@
 <h2> ang asdasdasdagwapo ko</h2>
 <h2> ang asdasdasdagwapo ko</h2>
 <h2> ang asdasdasdagwapo ko</h2>
-<h2> ang asdasdasdagwapo ko</h2>
-<h2> wala na na wala na </h2>
-<h2> wala na na wala na </h2>
-<h2> wala na na wala na </h2>
-<h2> wala na na wala na </h2>
-<h2> ang asdasdasdagwapo ko</h2>
-<h2> ang asdasdasdagwapo ko</h2>
-<h2> ang asdasdasdagwapo ko</h2>
-<h2> ang asdasdasdagwapo ko</h2>
-<h2> ang asdasdasdagwapo ko</h2>
-<h2> wala na na wala na </h2>
+<h2> asdasdasdasdasdasdasdasdas ko</h2>
+<h2> asdasdasdasdasdasdasdasdas ko</h2>
+<h2> asdasdasdasdasdasdasdasdas ko</h2>
+<h2> asdasdasdasdasdasdasdasdas ko</h2>
+<h2> asdasdasdasdasdasdasdasdas ko</h2>
+<h2> asdasdasdasdasdasdasdasdas ko</h2>
 <p> Pushing no one </p>
 <p> Pushing no two </p>
